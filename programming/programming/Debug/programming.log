@@ -1,0 +1,10 @@
+﻿  functions.cpp
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\dilek\desktop\2020-21\2020-21 bahar\hw_exam\prgfinal\programming\programming\functions.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  programming.vcxproj -> C:\Users\dilek\Desktop\2020-21\2020-21 bahar\hw_exam\prgFinal\programming\Debug\programming.exe
